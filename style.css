@@ -1,0 +1,18 @@
+.capa{
+  width: 30%;
+margin-top: 5%;
+margin-bottom: 5%;
+margin-left: 35%
+}
+body{
+background-color: teal
+}
+nav{
+  position: relative;
+  bottom: 1150px;
+  left: 1500px;
+  border: 3px solid white;
+}
+ul li{
+  background-color: white
+}
