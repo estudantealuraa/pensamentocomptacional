@@ -1,1 +1,1 @@
-# pensamentocomptacional
+# pensamentocomptacional-sl
